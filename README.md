@@ -1,6 +1,10 @@
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
+
+## Date:
+12-05-2026
+
 To perform a study on Socket Programming
 ## Introduction:
 
